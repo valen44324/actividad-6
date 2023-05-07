@@ -1,0 +1,32 @@
+.Dias {
+    font-weight: bold;
+    color: blue;
+    font-size: large;
+}
+
+.horarios{
+ font-style: italic;
+ color:blue ;   
+}
+ 
+header {
+    background-color: aquamarine;
+    width: 100%;
+}
+
+footer {
+    background-color: burlywood;
+    width: 100%;
+}
+
+.formulario {
+    border: 1px solid;
+}
+
+
+
+ul {
+    display: flex;
+    gap: 20px;
+    
+}
